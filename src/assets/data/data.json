@@ -1,0 +1,538 @@
+{
+  "data": [
+    {
+      "text": "Communicate",
+      "value": "Communicate",
+      "children": [
+        {
+          "text": "Send Message",
+          "value": "Send Message",
+          "children": [
+            {
+              "text": "Send Emails",
+              "value": "Send Emails"
+            },
+            {
+              "text": "Push Notifications",
+              "value": "Push Notifications"
+            }
+          ]
+        },
+        {
+          "text": "Manage Messages",
+          "value": "Manage Messages"
+        }
+      ]
+    },
+    {
+      "text": "Manage Leagues/Tournaments",
+      "value": "Manage Leagues/Tournaments",
+      "children": [
+        {
+          "text": "Create League/Tournament",
+          "value": "Create League/Tournament"
+        },
+        {
+          "text": "Create League/Tournament",
+          "value": "Edit League/Tournament"
+        },
+        {
+          "text": "Delete League/Tournament",
+          "value": "Delete League/Tournament"
+        },
+        {
+          "text": "Team Manager",
+          "value": "Team Manager",
+          "children": [
+            {
+              "text": "Create Team",
+              "value": "Create Team"
+            },
+            {
+              "text": "Edit Team",
+              "value": "Edit Team"
+            },
+            {
+              "text": "Delete Team",
+              "value": "Delete Team"
+            }
+          ]
+        },
+        {
+          "text": "Match Manager",
+          "value": "Match Manager",
+          "children": [
+            {
+              "text": "Create Match",
+              "value": "Create Match"
+            },
+            {
+              "text": "Edit Match",
+              "value": "Edit Match"
+            },
+            {
+              "text": "Update the Score",
+              "value": "Update the Score"
+            },
+            {
+              "text": "Cancel Match",
+              "value": "Cancel Match"
+            },
+            {
+              "text": "Record the events in the match",
+              "value": "Record the events in the match"
+            },
+            {
+              "text": "Update Respect Score (HKFA)",
+              "value": "Update Respect Score (HKFA)"
+            }
+          ]
+        },
+        {
+          "text": "Point Adjustment Manager",
+          "value": "Point Adjustment Manager",
+          "children": [
+            {
+              "text": "Add Point Adjustment",
+              "value": "Create Point Adjustment"
+            },
+            {
+              "text": "Edit Point Adjustment",
+              "value": "Edit Point Adjustment"
+            },
+            {
+              "text": "Delete Point Adjustment",
+              "value": "Delete Point Adjustment"
+            }
+          ]
+        },
+        {
+          "text": "Manage Venues",
+          "value": "Manage Venues",
+          "children": [
+            {
+              "text": "Create Venue",
+              "value": "Create Venue"
+            },
+            {
+              "text": "Edit Venue",
+              "value": "Edit Venue"
+            },
+            {
+              "text": "Delete Venue",
+              "value": "Delete Venue"
+            }
+          ]
+        },
+        {
+          "text": "Manage Team In League/Tournament",
+          "value": "Manage Team In League/Tournament",
+          "children": [
+            {
+              "text": "Add Team In League/Tournament",
+              "value": "Add Team In League/Tournament"
+            },
+            {
+              "text": "Edit Team In League/Tournament",
+              "value": "Edit Team In League/Tournament"
+            },
+            {
+              "text": "Delete Team In League/Tournament",
+              "value": "Delete Team In League/Tournament"
+            }
+          ]
+        },
+        {
+          "text": "Matches Report",
+          "value": "Matches Report"
+        }
+      ]
+    },
+    {
+      "text": "Manage Certificates",
+      "value": "Manage Certificates",
+      "children": [
+        {
+          "text": "Create Certificate Form",
+          "value": "Create Certificate Form"
+        },
+        {
+          "text": "Edit Certificate Form",
+          "value": "Edit Certificate Form"
+        },
+        {
+          "text": "Delete Certificate Form",
+          "value": "Delete Certificate Form"
+        },
+        {
+          "text": "Add Players who who achieved this certificate",
+          "value": "Add Players who who achieved this certificate"
+        }
+      ]
+    },
+    {
+      "text": "Manage Organization Informations",
+      "value": "Manage Organization Informations",
+      "children": [
+        {
+          "text": "Code of Conduct",
+          "value": "Code of Conduct"
+        },
+        {
+          "text": "Weather Policy",
+          "value": "Weather Policy"
+        },
+        {
+          "text": "About",
+          "value": "About"
+        },
+        {
+          "text": "Term Of Services and Private Policy",
+          "value": "Term Of Services and Private Policy"
+        },
+        {
+          "text": "Health Guideline (HKFA)",
+          "value": "Health Guideline (HKFA)"
+        },
+        {
+          "text": "Manage Sponsors",
+          "value": "Manage Sponsors",
+          "children": [
+            {
+              "text": "Add Sponsor",
+              "value": "Add Sponsor"
+            },
+            {
+              "text": "Edit Sponsor",
+              "value": "Edit Sponsor"
+            },
+            {
+              "text": "Delete Sponsor",
+              "value": "Delete Sponsor"
+            }
+          ]
+        },
+        {
+          "text": "Coaching Resources",
+          "value": "Coaching Resources"
+        },
+        {
+          "text": "Manage Respect Document",
+          "value": "Manage Respect Document",
+          "children": [
+            {
+              "text": "Add Respect Document",
+              "value": "Add Respect Document"
+            },
+            {
+              "text": "Edit Respect Document",
+              "value": "Edit Respect Document"
+            },
+            {
+              "text": "Delete Respect Document",
+              "value": "Delete Respect Document"
+            }
+          ]
+        },
+        {
+          "text": "Manage Training Scheme Video",
+          "value": "Manage Training Scheme Video",
+          "children": [
+            {
+              "text": "Add Training Scheme Group",
+              "value": "Add Training Scheme Group"
+            },
+            {
+              "text": "Edit Training Scheme Group",
+              "value": "Edit Training Scheme Group"
+            },
+            {
+              "text": "Remove Training Scheme Group",
+              "value": "Remove Training Scheme Group"
+            },
+            {
+              "text": "Manage Training Scheme Skill",
+              "value": "Manage Training Scheme Skill",
+              "children": [
+                {
+                  "text": "Add Training Scheme Skill",
+                  "value": "Add Training Scheme Skill"
+                },
+                {
+                  "text": "Edit Training Scheme Skill",
+                  "value": "Edit Training Scheme Skill"
+                },
+                {
+                  "text": "Remove Training Scheme Skill",
+                  "value": "Remove Training Scheme Skill"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "EZ Stream",
+      "value": "EZ Stream"
+    },
+    {
+      "text": "Manage Registrations",
+      "value": "Manage Registrations",
+      "children": [
+        {
+          "text": "Manage Events",
+          "value": "Manage Events",
+          "children": [
+            {
+              "text": "Add Event",
+              "value": "Add Event"
+            },
+            {
+              "text": "Edit Event",
+              "value": "Edit Event"
+            },
+            {
+              "text": "Delete Event",
+              "value": "Delete Event"
+            }
+          ]
+        },
+        {
+          "text": "Manage Groups",
+          "value": "Manage Groups",
+          "children": [
+            {
+              "text": "Add Group",
+              "value": "Add Group"
+            },
+            {
+              "text": "Edit Group",
+              "value": "Edit Group"
+            },
+            {
+              "text": "Delete Group",
+              "value": "Delete Group"
+            }
+          ]
+        },
+        {
+          "text": "Manage Clubs",
+          "value": "Manage Clubs",
+          "children": [
+            {
+              "text": "Add Club",
+              "value": "Add Club"
+            },
+            {
+              "text": "Edit Club",
+              "value": "Edit Club"
+            },
+            {
+              "text": "Manage Club Manager",
+              "value": "Manage Club Manager",
+              "children": [
+                {
+                  "text": "Add Club Manager",
+                  "value": "Add Club Manager"
+                },
+                {
+                  "text": "Edit Club Manager",
+                  "value": "Edit Club Manager"
+                },
+                {
+                  "text": "Delete Club Manager",
+                  "value": "Delete Club Manager"
+                }
+              ]
+            },
+            {
+              "text": "Manage Player in Club",
+              "value": "Manage Player in Club",
+              "children": [
+                {
+                  "text": "Manage player in year group",
+                  "value": "Manage player in year group",
+                  "children": [
+                    {
+                      "text": "Assign player to Year Group",
+                      "value": "Assign player to Year Group"
+                    },
+                    {
+                      "text": "Assign player to Team",
+                      "value": "Assign player to Team"
+                    },
+                    {
+                      "text": "Submit Team Sheet",
+                      "value": "Submit Team Sheet"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Manage Group Coachs",
+              "value": "Manage Group Coachs",
+              "children": [
+                {
+                  "text": "Add Group Coach",
+                  "value": "Add Group Coach"
+                },
+                {
+                  "text": "Edit Group Coach",
+                  "value": "Edit Group Coach"
+                },
+                {
+                  "text": "Delete Group Coach",
+                  "value": "Delete Group Coach"
+                }
+              ]
+            },
+          ]
+        },
+        {
+          "text": "Manage Payments",
+          "value": "Manage Payments",
+          "children": [
+            {
+              "text": "Send Reminder",
+              "value": "Send Reminder"
+            },
+            {
+              "text": "Mark as paid",
+              "value": "Mark as paid"
+            },
+            {
+              "text": "Refund",
+              "value": "Refund"
+            },
+            {
+              "text": "Update status",
+              "value": "Update status"
+            }
+          ]
+        },
+        {
+          "text": "Manage League Administrators",
+          "value": "Manage League Administrators",
+          "children": [
+            {
+              "text": "Add League Administrator",
+              "value": "Add League Administrator"
+            },
+            {
+              "text": "Edit League Administrator",
+              "value": "Edit League Administrator"
+            },
+            {
+              "text": "Delete League Administrator",
+              "value": "Delete League Administrator"
+            }
+          ]
+        },
+        {
+          "text": "Manage Users",
+          "value": "Manage Users",
+          "children": [
+            {
+              "text": "Add User",
+              "value": "Add User"
+            },
+            {
+              "text": "Edit User",
+              "value": "Edit User"
+            },
+            {
+              "text": "Delete User",
+              "value": "Delete User"
+            },
+            {
+              "text": "Set Password",
+              "value": "Set Password"
+            },
+            {
+              "text": "Forgot Password",
+              "value": "Forgot Password"
+            }
+          ]
+        },
+        {
+          "text": "Manage Parents",
+          "value": "Manage Parents",
+          "children": [
+            {
+              "text": "Add Parent",
+              "value": "Add Parent"
+            },
+            {
+              "text": "Edit Parent",
+              "value": "Edit Parent"
+            },
+            {
+              "text": "Delete Parent",
+              "value": "Delete Parent"
+            }
+          ]
+        },
+        {
+          "text": "Manage Players",
+          "value": "Manage Players",
+          "children": [
+            {
+              "text": "Edit Player",
+              "value": "Edit Player"
+            },
+            {
+              "text": "Delete Player",
+              "value": "Delete Player"
+            }
+          ]
+        },
+        {
+          "text": "Manage Registrations",
+          "value": "Manage Registrations",
+          "children": [
+            {
+              "text": "Register Player",
+              "value": "Register Player"
+            },
+            {
+              "text": "Validate Player",
+              "value": "Validate Player"
+            },
+            {
+              "text": "Change register Club",
+              "value": "Change register Club"
+            },
+            {
+              "text": "Approve full",
+              "value": "Approve full"
+            }
+          ]
+        },
+        {
+          "text": "Manage Courses(HKFA)",
+          "value": "Manage Courses(HKFA)",
+          "children": [
+            {
+              "text": "Add Course",
+              "value": "Add Course"
+            },
+            {
+              "text": "Edit Course",
+              "value": "Edit Course"
+            },
+            {
+              "text": "Delete Course",
+              "value": "Delete Course"
+            }
+          ]
+        },
+        {
+          "text": "Registration Report",
+          "value": "Registration Report"
+        }
+      ]
+    }
+  ]
+}
